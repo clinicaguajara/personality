@@ -1,0 +1,239 @@
+{
+  "scale": "PID-5 | Versão do Informante Completa",
+  "version": "Markon et al., 2013",
+  "cite": "Markon K.E., Quilty L. C., Bagby R. M. & Krueger R. F. (2013). The development and psychometric properties of an informant-report form of the personality inventory for DSM-5 (PID-5). Assessment. 2013 Jun;20(3):370-83. DOI: 10.1177/1073191113486513",
+  "n_items": 218,
+  "reverse_items": [7, 30, 35, 58, 87, 90, 96, 97, 98, 130, 141, 154, 163, 176, 208, 213],
+  "response_map": {
+    "Muito falso ou frequentemente falso": 0,
+    "Algumas vezes ou um pouco falso": 1,
+    "Algumas vezes ou pouco verdadeiro": 2,
+    "Muito verdadeiro ou frequentemente verdadeiro": 3
+  },
+  "norm_groups": ["normativo", "alto risco"],
+  "default_norm_group": "alto risco",
+  "facets": {
+    "Anedonia": {
+      "items": [1, 23, 26, 30, 124, 155, 157, 189],
+      "norms": {
+        "normativo": {"mean": 0.80,"sd": 0.68},
+        "alto risco": {"mean": 0.90,"sd": 0.60}
+      }
+    },
+    "Ansiedade": {
+      "items": [79, 93, 95, 96, 109, 110, 130, 141, 174],
+      "norms": {
+        "normativo": {"mean": 0.84, "sd": 0.71},
+        "alto risco": {"mean": 0.92, "sd": 0.60}
+      }
+    },
+    "Afetividade Restrita": {
+      "items": [8, 45, 84, 91, 101, 167, 184],
+      "norms": {
+        "normativo": {"mean": 0.97, "sd": 0.63},
+        "alto risco": {"mean": 1.08, "sd": 0.67}
+      }
+    },
+    "Busca de Atenção": {
+      "items": [14, 43, 74, 111, 113, 173, 191, 211],
+      "norms": {
+        "normativo": {"mean": 0.95, "sd": 0.80},
+        "alto risco": {"mean": 0.99, "sd": 0.78}
+      }
+    },
+    "Crenças e Experiências Incomuns": {
+      "items": [94, 99, 106, 139, 143, 150, 194, 209],
+      "norms": {
+        "normativo": {"mean": 0.33, "sd": 0.48},
+        "alto risco": {"mean": 0.43, "sd": 0.58}
+      }
+    },
+    "Desconfiança": {
+      "items": [2, 103, 117, 131, 133, 177, 190],
+      "norms": {
+        "normativo": {"mean": 0.88, "sd": 0.62},
+        "alto risco": {"mean": 0.97, "sd": 0.66}
+      }
+    },
+    "Desonestidade": {
+      "items": [41, 53, 56, 76, 126, 134, 142, 206, 214, 218],
+      "norms": {
+        "normativo": {"mean": 0.64, "sd": 0.67},
+        "alto risco": {"mean": 0.83, "sd": 0.75}
+      }
+    },
+    "Desregulação Cognitiva e Perceptiva": {
+      "items": [36, 37, 42, 44, 59, 77, 83, 154, 192, 193, 213, 217],
+      "norms": {
+        "normativo": {"mean": 0.32, "sd": 0.45},
+        "alto risco": {"mean": 0.45, "sd": 0.52}
+      }
+    },
+    "Distraibilidade": {
+      "items": [6, 29, 47, 68, 88, 118, 132, 144, 199],
+      "norms": {
+        "normativo": {"mean": 0.78, "sd": 0.74},
+        "alto risco": {"mean": 0.99, "sd": 0.70}
+      }
+    },
+    "Evitação de Intimidade": {
+      "items": [89, 97, 108, 120, 145, 203],
+      "norms": {
+        "normativo": {"mean": 0.67, "sd": 0.74},
+        "alto risco": {"mean": 0.71, "sd": 0.63}
+      }
+    },
+    "Excentricidade": {
+      "items": [5, 21, 24, 25, 33, 52, 55, 70, 71, 152, 172, 185, 205],
+      "norms": {
+        "normativo": {"mean": 0.68, "sd": 0.67},
+        "alto risco": {"mean": 0.77, "sd": 0.70}
+      }
+    },
+    "Exposição a Riscos": {
+      "items": [3, 7, 35, 39, 48, 67, 69, 87, 98, 112, 159, 164, 195, 215],
+      "norms": {
+        "normativo": {"mean": 1.12, "sd": 0.59},
+        "alto risco": {"mean": 1.33, "sd": 0.57}
+      }
+    },
+    "Grandiosidade": {
+      "items": [40, 65, 114, 179, 187, 197],
+      "norms": {
+        "normativo": {"mean": 0.74, "sd": 0.80},
+        "alto risco": {"mean": 0.75, "sd": 0.75}
+      }
+    },
+    "Hostilidade": {
+      "items": [28, 32, 38, 85, 92, 116, 158, 170, 188, 216],
+      "norms": {
+        "normativo": {"mean": 0.87, "sd": 0.71},
+        "alto risco": {"mean": 0.93, "sd": 0.74}
+      }
+    },
+    "Impulsividade": {
+      "items": [4, 16, 17, 22, 58, 204],
+      "norms": {
+        "normativo": {"mean": 0.90, "sd": 0.72},
+        "alto risco": {"mean": 1.08, "sd": 0.74}
+      }
+    },
+    "Insegurança de Separação": {
+      "items": [12, 50, 57, 64, 127, 149, 175],
+      "norms": {
+        "normativo": {"mean": 0.82, "sd": 0.74},
+        "alto risco": {"mean": 0.87, "sd": 0.71}
+      }
+    },
+    "Insensibilidade": {
+      "items": [11, 13, 19, 54, 72, 73, 90, 153, 166, 183, 198, 200, 207, 208],
+      "norms": {
+        "normativo": {"mean": 0.53, "sd": 0.60},
+        "alto risco": {"mean": 0.61, "sd": 0.58}
+      }
+    },
+    "Irresponsabilidade": {
+      "items": [31, 129, 156, 160, 171, 201, 210],
+      "norms": {
+        "normativo": {"mean": 0.48, "sd": 0.56},
+        "alto risco": {"mean": 0.75, "sd": 0.63}
+      }
+    },
+    "Labilidade Emocional": {
+      "items": [18, 62, 102, 122, 138, 165, 181],
+      "norms": {
+        "normativo": {"mean": 0.81, "sd": 0.72},
+        "alto risco": {"mean": 0.99, "sd": 0.80}
+      }
+    },
+    "Manipulação": {
+      "items": [107, 125, 162, 180],
+      "norms": {
+        "normativo": {"mean": 0.97, "sd": 0.71},
+        "alto risco": {"mean": 1.01, "sd": 0.81}
+      }
+    },
+    "Perfeccionismo Rígido": {
+      "items": [34, 49, 105, 115, 123, 135, 140, 176, 196],
+      "norms": {
+        "normativo": {"mean": 1.05, "sd": 0.75},
+        "alto risco": {"mean": 1.03, "sd": 0.66}
+      }
+    },
+    "Perseverança": {
+      "items": [46, 51, 60, 78, 80, 100, 121, 128, 137],
+      "norms": {
+        "normativo": {"mean": 0.79, "sd": 0.62},
+        "alto risco": {"mean": 0.92, "sd": 0.65}
+      }
+    },
+    "Retraimento": {
+      "items": [10, 20, 75, 82, 136, 146, 147, 161, 182, 186],
+      "norms": {
+        "normativo": {"mean": 0.79, "sd": 0.69},
+        "alto risco": {"mean": 0.83, "sd": 0.62}
+      }
+    },
+    "Submissão": {
+      "items": [9, 15, 63, 202],
+      "norms": {
+        "normativo": {"mean": 1.09, "sd": 0.73},
+        "alto risco": {"mean": 1.06, "sd": 0.65}
+      }
+    },
+    "Tendência à Depressão": {
+      "items": [27, 61, 66, 81, 86, 104, 119, 148, 151, 163, 168, 169, 178, 212],
+      "norms": {
+        "normativo": {"mean": 0.52, "sd": 0.58},
+        "alto risco": {"mean": 0.63, "sd": 0.63}
+      }
+    }
+  },
+    "domains": {
+      "Afetividade Negativa": ["Ansiedade", "Labilidade Emocional", "Insegurança de Separação", "Submissão", "Perseverança", "Tendência à Depressão"
+      ],
+      "Distanciamento": ["Retraimento", "Anedonia", "Evitação de Intimidade", "Afetividade Restrita", "Desconfiança"
+      ],
+      "Antagonismo": ["Manipulação", "Desonestidade", "Grandiosidade", "Insensibilidade", "Busca de Atenção", "Hostilidade"
+      ],
+      "Desinibição": ["Irresponsabilidade", "Impulsividade", "Distraibilidade", "Exposição a Riscos", "Perfeccionismo Rígido"
+      ],
+      "Psicotismo": ["Crenças e Experiências Incomuns", "Excentricidade", "Desregulação Cognitiva e Perceptiva"
+      ]
+    }
+,
+    "facet_descriptions": {
+        "Anedonia": "Falta de prazer, envolvimento ou energia para as experiências de vida; déficits na capacidade de sentir prazer e ter interesse nas coisas.",
+        "Ansiedade": " Sentimento intenso de nervosismo, tensão ou pânico, frequentemente em reação a situações sociais; preocupação com os efeitos negativos de experiências passadas desagradáveis e possibilidades futuras negativas; sentir-se temeroso, apreensivo ou ameaçado pela incerteza; medo de passar constrangimento.",
+        "Afetividade Restrita": "Pouca reação a situações emocionalmente estimulantes; experiência e expressão emocionais restritas; indiferença e distanciamento em situações normalmente atraentes.",
+        "Busca de Atenção": "Envolvimento em comportamento concebido para atrair a atenção e tornar-se o foco da atenção e admiração dos outros.",
+        "Crenças e Experiências Incomuns": "Crença de ter habilidades incomuns, tais como leitura da mente, telecinesia, fusão de pensamento-ação, experiências incomuns de realidade, incluindo experiências semelhantes a alucinação.",
+        "Desconfiança": "Expectativas de – e sensibilidade a – sinais de más intenções ou dano interpessoal; dúvidas quanto à lealdade e à fidelidade dos outros; sentimentos de ser maltratado, usado e/ou perseguido pelos outros.",
+        "Desonestidade": "Desonestidade e fraudulência; representação deturpada de si mesmo; embelezamento ou invenção no relato de acontecimentos.",
+        "Desregulação Cognitiva e Perceptiva": "Processos de pensamento e experiências estranhos ou incomuns, incluindo despersonalização, desrealização e experiências dissociativas; experiências em um estado misto de sono-vigília; experiências de controle do pensamento.",
+        "Distraibilidade": "Dificuldade de concentração e de foco nas tarefas; a atenção é facilmente desviada por estímulos externos; dificuldade na manutenção de comportamento focado nos objetivos, incluindo o planejamento e a conclusão das tarefas.",
+        "Evitação de Intimidade": "Evitação de relacionamentos íntimos ou amorosos, vínculos interpessoais e relacionamentos sexuais íntimos.",
+        "Excentricidade": "Comportamento, aparência e/ou discurso estranho, incomum ou bizarro; ter pensamentos estranhos e imprevisíveis; dizer coisas incomuns ou inapropriadas.",
+        "Exposição a Riscos": "Envolvimento em atividades perigosas, arriscadas e potencialmente prejudiciais, desnecessariamente e sem consideração quanto às consequências; falta de preocupação com as próprias limitações e negação da realidade de perigo pessoal; busca irresponsável dos objetivos, independentemente do nível de risco envolvido.",
+        "Grandiosidade": "Acreditar que é superior aos outros e merece tratamento especial; egocentrismo; sentimentos de ter direitos; condescendência em relação aos outros.",
+        "Hostilidade": "Sentimentos persistentes ou frequentes de raiva; raiva ou irritabilidade em resposta a desprezo e insultos mínimos; comportamento maldoso, grosseiro ou vingativo.",
+        "Impulsividade": "Ação sob o impulso do momento em resposta a estímulos imediatos; agir momentaneamente sem um plano ou consideração dos resultados; dificuldade no estabelecimento e seguimento de planos; senso de urgência e comportamento de autoagressão sob angústia emocional.",
+        "Insegurança de Separação": "Medo de rejeição por – e/ou separação de – outras pessoas significativas, associado a temor de dependência excessiva e completa perda da autonomia.",
+        "Insensibilidade": "Ausência de preocupação pelos sentimentos ou problemas dos outros; ausência de culpa ou remorso quanto aos efeitos negativos ou prejudiciais das próprias ações sobre os outros",
+        "Irresponsabilidade": "Negligência com, ou falha em honrar, obrigações e compromissos; falta de respeito por, e falta de cumprimento de, combinados e promessas; negligência com a propriedade dos outros.",
+        "Labilidade Emocional": "Experiências emocionais instáveis e frequentes alterações do humor; as emoções são facilmente provocadas, intensas e/ ou desproporcionais aos fatos e circunstâncias.",
+        "Manipulação": "Uso de subterfúgios para influenciar ou controlar os outros; uso de sedução, charme, loquacidade ou comportamento insinuante para atingir seus fins.",
+        "Perfeccionismo Rígido": "Insistência rígida em que tudo seja impecável, perfeito e sem erros ou faltas, incluindo o próprio desempenho e o dos outros; sacrifício de oportunidades para assegurar a correção em todos os detalhes; crença de que existe apenas uma maneira certa de fazer as coisas; dificuldade de mudar de ideia e/ou ponto de vista; preocupação com detalhes, organização e ordem. A ausência dessa faceta caracteriza baixos níveis de Desinibição.",
+        "Perseverança": "Persistência nas tarefas muito tempo depois que o comportamento deixou de ser funcional ou efetivo; continuação do mesmo comportamento apesar de fracassos repetidos.",
+        "Retraimento": "Preferência por estar sozinho a estar com outras pessoas; reticência nas situações sociais; evitação de contatos e atividades sociais; ausência de iniciativa no contato social.",
+        "Submissão": "Adaptação do próprio comportamento aos interesses reais ou percebidos e desejos dos outros, mesmo quando fazer isso contraria os próprios interesses, necessidades ou desejos.",
+        "Tendência à Depressão": "Sentimentos frequentes de estar desanimado, infeliz e/ou sem esperança; dificuldade de recuperação de tais humores; pessimismo quanto ao futuro; vergonha difusa; sentimentos de desvalia; pensamentos de suicídio e comportamento suicida."
+      }
+,
+  "classification": [
+    { "max_abs_z": 1.0, "label_above": "dentro da média", "label_below": "dentro da média" },
+    { "max_abs_z": 2.0, "label_above": "acima da média", "label_below": "abaixo da média" },
+    { "max_abs_z": 3.0, "label_above": "muito acima da média", "label_below": "muito abaixo da média" },
+    { "max_abs_z": null, "label_above": "extremamente acima da média", "label_below": "extremamente abaixo da média" }
+  ]
+}

@@ -1,0 +1,83 @@
+/* style.css */
+/* === Reset seguro para a modebar do Plotly (evita herdar estilos globais) === */
+.js-plotly-plot .modebar {
+  background: transparent !important;
+  border: 0 !important;
+  padding: 0 !important;
+}
+
+/* Botões: centralizados, com tamanho auto e line-height normal */
+.js-plotly-plot .modebar-btn {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 6px !important;
+  margin: 0 2px !important;
+  width: auto !important;
+  height: auto !important;
+  line-height: 1 !important;
+  border-radius: 6px !important;
+  background: rgba(255,255,255,0.10) !important; /* ajuste conforme tema */
+}
+
+/* Hover agradável (opcional) */
+.js-plotly-plot .modebar-btn:hover {
+  background: rgba(255,255,255,0.25) !important; /* claro/escuro: ajuste */
+}
+
+/* Ícones: tamanho fixo e sem “auto-resize” herdado de img/svg globais */
+.js-plotly-plot .modebar-btn svg {
+  width: 16px !important;
+  height: 16px !important;
+  display: block !important;        /* evita baseline estranha */
+  transform: none !important;
+  max-width: none !important;       /* neutraliza img, svg { max-width:100% } */
+}
+
+/* Se houver regras globais que mudam path/fill, fixe a cor aqui conforme o tema */
+.js-plotly-plot .modebar-btn svg path {
+  fill: #ffffff !important;         /* tema escuro; use #333 em tema claro */
+}
+/* GLOBAL CONFIG */
+body {
+    background-color: #1D2B53;
+    color: #FFFFFF;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+
+/* CUSTOM BUTTONS */
+button {
+    background-color: #2196F3  !important;
+    color: #FFFFFF !important;
+    border-radius: 8px !important;
+    padding: 0.6em 1.2em;
+    border: none;
+    font-weight: bold;
+    transition: background 0.3s ease;
+}
+
+button:hover {
+    background-color: #3AB6FF !important;
+    transform: scale(1.02) !important;
+}
+
+/* ==========================================================
+   EXPANDER / BOTÕES
+   ========================================================== */
+
+[data-testid="stExpander"] button {
+      background-color: #2196F3 !important;
+      color: #FFFFFF !important;
+      border-radius: 8px !important;
+      padding: 0.6em 1.2em;
+      border: none;
+      font-weight: bold;
+      transition: background 0.3s ease;
+  }
+
+/* HOVER */
+[data-testid="stExpander"] button:hover {   
+      background-color: #3AB6FF  !important;
+      transform: scale(1.02) !important;
+  }

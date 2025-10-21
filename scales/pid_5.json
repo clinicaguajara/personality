@@ -1,0 +1,893 @@
+{
+  "name": "PID-5 | Autorrelato Completo",
+  "instructions": "Essa é uma lista de várias coisas que as pessoas podem dizer sobre si mesmas. Nós estamos interessados em saber como você se descreveria. Não existem respostas certas ou erradas. Dessa forma, você pode se descrever da maneira mais honesta possível, pois suas respostas serão mantidas em sigilo. Você pode levar o tempo que quiser; leia cada uma das afirmativas com cuidado, escolhendo a resposta que melhor descreve você.",
+  "respostas": [
+    "Muito falso ou frequentemente falso",
+    "Algumas vezes ou um pouco falso",
+    "Algumas vezes ou pouco verdadeiro",
+    "Muito verdadeiro ou frequentemente verdadeiro"
+  ],
+  "itens_reversos": [7, 30, 35, 58, 87, 90, 96, 97, 98, 131, 142, 155, 164, 177, 210, 215],
+  "items": [
+    {
+      "id": 1,
+      "text": "Eu não tenho tanto prazer nas coisas como os outros parecem ter."
+    },
+    {
+      "id": 2,
+      "text": "Muitas pessoas por aí querem me pegar."
+    },
+    {
+      "id": 3,
+      "text": "As pessoas me descreveriam como imprudente."
+    },
+    {
+      "id": 4,
+      "text": "Eu sinto que ajo totalmente por impulso."
+    },
+    {
+      "id": 5,
+      "text": "Eu frequentemente tenho ideias que são muito estranhas para explicar para alguém."
+    },
+    {
+      "id": 6,
+      "text": "Eu perco o foco das conversas porque outras coisas chamam minha atenção."
+    },
+    {
+      "id": 7,
+      "text": "Eu evito situações de risco."
+    },
+    {
+      "id": 8,
+      "text": "Quando se trata de minhas emoções, as pessoas dizem que eu sou muito \"frio (a) \"."
+    },
+    {
+      "id": 9,
+      "text": "Eu mudo o que faço dependendo do que os outros querem."
+    },
+    {
+      "id": 10,
+      "text": "Eu prefiro não ficar muito perto das pessoas."
+    },
+    {
+      "id": 11,
+      "text": "Eu frequentemente me envolvo em brigas físicas."
+    },
+    {
+      "id": 12,
+      "text": "Eu tenho pavor de ficar sem alguém para me amar."
+    },
+    {
+      "id": 13,
+      "text": "Ser grosseiro e hostil é parte de quem eu sou."
+    },
+    {
+      "id": 14,
+      "text": "Eu faço coisas para ter certeza que as pessoas me notam."
+    },
+    {
+      "id": 15,
+      "text": "Eu geralmente faço o que os outros acham que eu deveria fazer."
+    },
+    {
+      "id": 16,
+      "text": "Eu geralmente faço coisas por impulso sem pensar no que poderia acontecer como resultado."
+    },
+    {
+      "id": 17,
+      "text": "Mesmo sabendo que não é o melhor, eu não consigo para de tomar decisões precipitadas."
+    },
+    {
+      "id": 18,
+      "text": "Minhas emoções às vezes mudam sem nenhum bom motivo."
+    },
+    {
+      "id": 19,
+      "text": "Eu realmente não me importo se faço outras pessoas sofrerem."
+    },
+    {
+      "id": 20,
+      "text": "Eu me fecho em mim mesmo (a)."
+    },
+    {
+      "id": 21,
+      "text": "Eu frequentemente falo coisas que os outros acham esquisitas ou estranhas."
+    },
+    {
+      "id": 22,
+      "text": "Eu sempre faço as coisas no calor do momento."
+    },
+    {
+      "id": 23,
+      "text": "Nada parece me interessar muito."
+    },
+    {
+      "id": 24,
+      "text": "As outras pessoas parecem achar que meu comportamento é estranho."
+    },
+    {
+      "id": 25,
+      "text": "Pessoas me disseram que eu penso sobre as coisas de um jeito muito estranho."
+    },
+    {
+      "id": 26,
+      "text": "Eu quase nunca aproveito a vida."
+    },
+    {
+      "id": 27,
+      "text": "Eu frequentemente sinto que nada que faço realmente importa."
+    },
+    {
+      "id": 28,
+      "text": "Eu explodo com as pessoas quando elas fazem pequenas coisas que me irritam."
+    },
+    {
+      "id": 29,
+      "text": "Eu não consigo me concentrar em nada."
+    },
+    {
+      "id": 30,
+      "text": "Eu sou uma pessoa com muita energia."
+    },
+    {
+      "id": 31,
+      "text": "Os outros me veem como irresponsável."
+    },
+    {
+      "id": 32,
+      "text": "Posso ser mau quando preciso."
+    },
+    {
+      "id": 33,
+      "text": "Meus pensamentos frequentemente vão em direções estranhas ou incomuns."
+    },
+    {
+      "id": 34,
+      "text": "Os outros me dizem que eu gasto muito tempo para garantir que as coisas estejam exatamente em seu lugar."
+    },
+    {
+      "id": 35,
+      "text": "Eu evito esportes e atividades arriscadas."
+    },
+    {
+      "id": 36,
+      "text": "Eu posso ter dificuldades em distinguir sonhos e realidade."
+    },
+    {
+      "id": 37,
+      "text": "De vez em quando eu tenho uma sensação estranha de que partes do meu corpo parecem mortas ou não são parte de mim."
+    },
+    {
+      "id": 38,
+      "text": "Eu fico irritado (a) facilmente."
+    },
+    {
+      "id": 39,
+      "text": "Eu não tenho limites quando se trata de fazer coisas perigosas."
+    },
+    {
+      "id": 40,
+      "text": "Para ser honesto (a), eu simplesmente sou mais importante do que as outras pessoas."
+    },
+    {
+      "id": 41,
+      "text": "Eu invento histórias sobre coisas que aconteceram que são totalmente falsas."
+    },
+    {
+      "id": 42,
+      "text": "As pessoas frequentemente falam que eu fiz coisas das quais não me lembro."
+    },
+    {
+      "id": 43,
+      "text": "Eu faço coisas simplesmente para que as pessoas me admirem."
+    },
+    {
+      "id": 44,
+      "text": "É estranho, mas às vezes objetos comuns parecem ter uma forma diferente do habitual."
+    },
+    {
+      "id": 45,
+      "text": "Eu não tenho reações emocionais muito duradouras às coisas."
+    },
+    {
+      "id": 46,
+      "text": "É difícil para mim parar uma atividade, mesmo quando já é a hora de parar."
+    },
+    {
+      "id": 47,
+      "text": "Eu não sou bom (boa) em planejar as coisas com antecedência."
+    },
+    {
+      "id": 48,
+      "text": "Eu faço muitas coisas que os outros consideram arriscadas."
+    },
+    {
+      "id": 49,
+      "text": "As pessoas me dizem que eu me concentro demais nos mínimos detalhes."
+    },
+    {
+      "id": 50,
+      "text": "Eu me preocupo muito em ficar sozinho (a)."
+    },
+    {
+      "id": 51,
+      "text": "Eu já perdi coisas por estar ocupado (a) tentando fazer algo de maneira extremamente correta."
+    },
+    {
+      "id": 52,
+      "text": "Meus pensamentos frequentemente não fazem sentido para os outros."
+    },
+    {
+      "id": 53,
+      "text": "Eu frequentemente invento coisas sobre mim para tentar conseguir o que eu quero."
+    },
+    {
+      "id": 54,
+      "text": "Realmente não me incomoda ver outras pessoas sofrendo."
+    },
+    {
+      "id": 55,
+      "text": "As pessoas frequentemente me olham como se eu tivesse falado algo realmente estranho."
+    },
+    {
+      "id": 56,
+      "text": "As pessoas não percebem que eu estou elogiando-as para conseguir algo."
+    },
+    {
+      "id": 57,
+      "text": "Eu prefiro estar em um relacionamento ruim do que estar sozinho (a)."
+    },
+    {
+      "id": 58,
+      "text": "Eu geralmente penso antes de agir."
+    },
+    {
+      "id": 59,
+      "text": "Eu frequentemente vejo imagens vívidas como sonhos quando estou adormecendo ou acordando."
+    },
+    {
+      "id": 60,
+      "text": "Eu continuo fazendo as coisas do mesmo jeito, mesmo quando não está dando certo."
+    },
+    {
+      "id": 61,
+      "text": "Eu sou muito insatisfeito (a) comigo mesmo (a)."
+    },
+    {
+      "id": 62,
+      "text": "Eu tenho reações emocionais muito mais fortes do que a maioria das pessoas."
+    },
+    {
+      "id": 63,
+      "text": "Eu faço o que as outras pessoas me dizem para fazer."
+    },
+    {
+      "id": 64,
+      "text": "Eu não suporto ser deixado (a) sozinho (a), mesmo por algumas horas."
+    },
+    {
+      "id": 65,
+      "text": "Eu tenho qualidades excepcionais que poucos possuem."
+    },
+    {
+      "id": 66,
+      "text": "O futuro parece realmente sem esperanças para mim."
+    },
+    {
+      "id": 67,
+      "text": "Eu gosto de correr riscos."
+    },
+    {
+      "id": 68,
+      "text": "Eu não consigo alcançar objetivos porque outras coisas roubam minha atenção."
+    },
+    {
+      "id": 69,
+      "text": "Quando quero fazer algo, eu não deixo que a possibilidade de que isso seja arriscado me impeça de fazê-lo."
+    },
+    {
+      "id": 70,
+      "text": "Os outros parecem pensar que eu sou bastante estranho (a) ou incomum."
+    },
+    {
+      "id": 71,
+      "text": "Meus pensamentos são estranhos ou imprevisíveis."
+    },
+    {
+      "id": 72,
+      "text": "Eu não me importo com os sentimentos das outras pessoas."
+    },
+    {
+      "id": 73,
+      "text": "Você precisa de passar por cima de algumas pessoas para conseguir o que quer na vida."
+    },
+    {
+      "id": 74,
+      "text": "Eu adoro chamar a atenção de outras pessoas."
+    },
+    {
+      "id": 75,
+      "text": "Eu desvio do meu caminho para evitar qualquer tipo de atividade em grupo."
+    },
+    {
+      "id": 76,
+      "text": "Eu posso ser malandro (a) para conseguir o que eu quero."
+    },
+    {
+      "id": 77,
+      "text": "Às vezes quando eu olho para um objeto conhecido, é como se eu estivesse vendo-o pela primeira vez."
+    },
+    {
+      "id": 78,
+      "text": "É difícil para mim mudar de uma atividade para outra."
+    },
+    {
+      "id": 79,
+      "text": "Eu me preocupo muito com coisas terríveis que podem acontecer."
+    },
+    {
+      "id": 80,
+      "text": "Eu tenho dificuldades de mudar o jeito de fazer alguma coisa mesmo quando não está dando certo."
+    },
+    {
+      "id": 81,
+      "text": "O mundo seria melhor se eu estivesse morto (a)."
+    },
+    {
+      "id": 82,
+      "text": "Eu mantenho distância das pessoas."
+    },
+    {
+      "id": 83,
+      "text": "Eu frequentemente não consigo controlar o que penso."
+    },
+    {
+      "id": 84,
+      "text": "Eu não fico emocionado (a)."
+    },
+    {
+      "id": 85,
+      "text": "Eu me ofendo quando me dizem o que fazer, mesmo quando é um superior/chefe."
+    },
+    {
+      "id": 86,
+      "text": "Eu sou muito envergonhado (a) pelas diferentes maneiras que eu decepcionei as pessoas."
+    },
+    {
+      "id": 87,
+      "text": "Eu evito qualquer coisa que pode ser minimamente perigosa."
+    },
+    {
+      "id": 88,
+      "text": "Eu tenho dificuldade em ir atrás de objetivos específicos mesmo que por curtos períodos de tempo."
+    },
+    {
+      "id": 89,
+      "text": "Eu prefiro manter romances fora da minha vida."
+    },
+    {
+      "id": 90,
+      "text": "Eu nunca prejudicaria outra pessoa."
+    },
+    {
+      "id": 91,
+      "text": "Eu não demonstro fortes emoções."
+    },
+    {
+      "id": 92,
+      "text": "Eu tenho um pavio muito curto."
+    },
+    {
+      "id": 93,
+      "text": "Eu frequentemente me preocupo que algo ruim vai acontecer devido a erros que cometi no passado."
+    },
+    {
+      "id": 94,
+      "text": "Eu tenho algumas habilidades incomuns, como às vezes saber exatamente o que alguém está pensando."
+    },
+    {
+      "id": 95,
+      "text": "Eu fico muito nervoso (a) quando penso sobre o futuro."
+    },
+    {
+      "id": 96,
+      "text": "Eu raramente me preocupo com as coisas."
+    },
+    {
+      "id": 97,
+      "text": "Eu gosto de estar apaixonado (a)."
+    },
+    {
+      "id": 98,
+      "text": "Eu prefiro agir com cuidado em vez de correr riscos desnecessários."
+    },
+    {
+      "id": 99,
+      "text": "Eu, às vezes, ouvi coisas que os outros não conseguiam ouvir."
+    },
+    {
+      "id": 100,
+      "text": "Eu fico fixado (a) em certas coisas e não posso parar."
+    },
+    {
+      "id": 101,
+      "text": "As pessoas me dizem que é difícil saber o que eu estou sentindo."
+    },
+    {
+      "id": 102,
+      "text": "Eu sou uma pessoa muito emotiva."
+    },
+    {
+      "id": 103,
+      "text": "Os outros se aproveitariam de mim se pudessem."
+    },
+    {
+      "id": 104,
+      "text": "Eu frequentemente me sinto como um (a) fracassado (a)."
+    },
+    {
+      "id": 105,
+      "text": "Se algo que eu faço não é absolutamente perfeito, simplesmente não é aceitável."
+    },
+    {
+      "id": 106,
+      "text": "Eu frequentemente tenho experiências incomuns, como sentir a presença de alguém que de fato não está presente."
+    },
+    {
+      "id": 107,
+      "text": "Eu sou bom (boa) em levar as pessoas a fazerem o que eu quero"
+    },
+    {
+      "id": 108,
+      "text": "Eu termino relacionamentos se eles começam a ficar muito íntimos."
+    },
+    {
+      "id": 109,
+      "text": "Eu estou sempre preocupado (a) com alguma coisa."
+    },
+    {
+      "id": 110,
+      "text": "Eu me preocupo com quase tudo."
+    },
+    {
+      "id": 111,
+      "text": "Eu gosto de me destacar em uma multidão."
+    },
+    {
+      "id": 112,
+      "text": "Eu não me importo de me arriscar de vez em quando."
+    },
+    {
+      "id": 113,
+      "text": "Meu comportamento é frequentemente ousado e chama atenção das pessoas."
+    },
+    {
+      "id": 114,
+      "text": "Eu sou melhor do que a maioria das pessoas."
+    },
+    {
+      "id": 115,
+      "text": "As pessoas reclamam da minha necessidade de ter tudo organizado."
+    },
+    {
+      "id": 116,
+      "text": "Eu sempre me certifico de dar o troco nas pessoas que me prejudicaram."
+    },
+    {
+      "id": 117,
+      "text": "Eu estou sempre atento em relação às pessoas que tentam me enganar ou me prejudicar."
+    },
+    {
+      "id": 118,
+      "text": "Eu tenho dificuldade em manter minha mente focada no que precisa ser feito."
+    },
+    {
+      "id": 119,
+      "text": "Eu falo muito sobre suicídio."
+    },
+    {
+      "id": 120,
+      "text": "Eu simplesmente não me interesso muito em ter relações sexuais."
+    },
+    {
+      "id": 121,
+      "text": "Eu fico muito preso (a) às coisas."
+    },
+    {
+      "id": 122,
+      "text": "Eu me emociono facilmente, muitas vezes por pequenas razões."
+    },
+    {
+      "id": 123,
+      "text": "Embora incomode muito as outras pessoas, eu insisto na perfeição absoluta em tudo o que faço."
+    },
+    {
+      "id": 124,
+      "text": "Eu quase nunca me sinto feliz com minhas atividades do dia a dia."
+    },
+    {
+      "id": 125,
+      "text": "Bajular os outros me ajuda a conseguir o que quero."
+    },
+    {
+      "id": 126,
+      "text": "Às vezes você precisa exagerar para seguir adiante."
+    },
+    {
+      "id": 127,
+      "text": "Eu tenho medo de ficar sozinho (a) na vida mais do que qualquer outra coisa."
+    },
+    {
+      "id": 128,
+      "text": "Eu fico preso (a) a um jeito de fazer as coisas, mesmo quando está claro que não vai dar certo."
+    },
+    {
+      "id": 129,
+      "text": "Eu frequentemente sou muito descuidado (a) com as minhas coisas e com as coisas dos outros."
+    },
+    {
+      "id": 130,
+      "text": "Eu sou uma pessoa muito ansiosa."
+    },
+    {
+      "id": 131,
+      "text": "As pessoas são geralmente confiáveis."
+    },
+    {
+      "id": 132,
+      "text": "Eu me distraio facilmente."
+    },
+    {
+      "id": 133,
+      "text": "Parece que eu sou sendo sempre tratado (a) injustamente pelas outras pessoas."
+    },
+    {
+      "id": 134,
+      "text": "Eu não hesito em trapacear se isso me levar adiante."
+    },
+    {
+      "id": 135,
+      "text": "Eu checo as coisas várias vezes para ter certeza de que estão perfeitas."
+    },
+    {
+      "id": 136,
+      "text": "Eu não gosto de gastar o tempo com os outros."
+    },
+    {
+      "id": 137,
+      "text": "Eu me sinto forçado (a) a continuar com as coisas mesmo quando isso faz pouco sentido."
+    },
+    {
+      "id": 138,
+      "text": "Eu nunca sei para onde irão minhas emoções de um momento para o outro."
+    },
+    {
+      "id": 139,
+      "text": "Eu tenho visto coisas que na realidade não estavam lá."
+    },
+    {
+      "id": 140,
+      "text": "É importante para mim que as coisas sejam feitas de uma maneira específica."
+    },
+    {
+      "id": 141,
+      "text": "Eu sempre espero que aconteça o pior."
+    },
+    {
+      "id": 142,
+      "text": "Eu tento dizer a verdade mesmo quando é difícil."
+    },
+    {
+      "id": 143,
+      "text": "Eu acredito que algumas pessoas podem mover coisas com suas mentes."
+    },
+    {
+      "id": 144,
+      "text": "Eu não consigo focar nas coisas por muito tempo."
+    },
+    {
+      "id": 145,
+      "text": "Eu evito relacionamentos amorosos."
+    },
+    {
+      "id": 146,
+      "text": "Eu não tenho interesse em fazer amigos."
+    },
+    {
+      "id": 147,
+      "text": "Eu falo o mínimo possível ao lidar com os outros."
+    },
+    {
+      "id": 148,
+      "text": "Eu sou uma pessoa inútil."
+    },
+    {
+      "id": 149,
+      "text": "Eu farei qualquer coisa para impedir que alguém me abandone."
+    },
+    {
+      "id": 150,
+      "text": "Às vezes eu posso influenciar outras pessoas apenas transmitindo meus"
+    },
+    {
+      "id": 151,
+      "text": "A vida parece muito sombria para mim."
+    },
+    {
+      "id": 152,
+      "text": "Eu penso sobre as coisas de maneira estranha, que não faz sentido para a"
+    },
+    {
+      "id": 153,
+      "text": "Eu não me importo se as minhas ações fazem os outros sofrerem."
+    },
+    {
+      "id": 154,
+      "text": "Às vezes eu me sinto \"controlado (a) \" por pensamentos que pertencem a"
+    },
+    {
+      "id": 155,
+      "text": "Eu realmente vivo a vida plenamente."
+    },
+    {
+      "id": 156,
+      "text": "Eu faço promessas que não pretendo manter."
+    },
+    {
+      "id": 157,
+      "text": "Nada parece me fazer sentir bem."
+    },
+    {
+      "id": 158,
+      "text": "Eu fico irritado (a) facilmente por qualquer tipo de coisa."
+    },
+    {
+      "id": 159,
+      "text": "Eu faço o que eu quero independente do quão perigoso possa ser."
+    },
+    {
+      "id": 160,
+      "text": "Eu frequentemente esqueço de pagar as minhas contas."
+    },
+    {
+      "id": 161,
+      "text": "Eu não gosto de ficar muito perto das pessoas."
+    },
+    {
+      "id": 162,
+      "text": "Eu sou bom (boa) em enganar as pessoas."
+    },
+    {
+      "id": 163,
+      "text": "Tudo parece sem sentido para mim."
+    },
+    {
+      "id": 164,
+      "text": "Eu nunca me arrisco."
+    },
+    {
+      "id": 165,
+      "text": "Eu me emociono com qualquer coisa pequena."
+    },
+    {
+      "id": 166,
+      "text": "Não me parece grande coisa se eu ferir os sentimentos das outras pessoas."
+    },
+    {
+      "id": 167,
+      "text": "Eu nunca demonstro minhas emoções para os outros."
+    },
+    {
+      "id": 168,
+      "text": "Eu frequentemente me sinto simplesmente péssimo (a)."
+    },
+    {
+      "id": 169,
+      "text": "Eu não tenho nenhum valor como pessoa."
+    },
+    {
+      "id": 170,
+      "text": "Eu geralmente sou bem hostil."
+    },
+    {
+      "id": 171,
+      "text": "Eu já fugi para evitar responsabilidades."
+    },
+    {
+      "id": 172,
+      "text": "Já me disseram mais de uma vez que eu tenho vários comportamentos ou"
+    },
+    {
+      "id": 173,
+      "text": "Eu gosto de ser uma pessoa que chama atenção."
+    },
+    {
+      "id": 174,
+      "text": "Eu estou sempre com medo ou preocupado (a) com coisas ruins que"
+    },
+    {
+      "id": 175,
+      "text": "Eu nunca quero ficar sozinho (a)."
+    },
+    {
+      "id": 176,
+      "text": "Eu continuo tentando fazer as coisas de forma perfeita mesmo quando já"
+    },
+    {
+      "id": 177,
+      "text": "Eu raramente sinto que as pessoas que eu conheço estão tentando se"
+    },
+    {
+      "id": 178,
+      "text": "Eu sei que vou cometer suicídio mais cedo ou mais tarde."
+    },
+    {
+      "id": 179,
+      "text": "Eu já conquistei muito mais coisas do que a maioria das pessoas que eu"
+    },
+    {
+      "id": 180,
+      "text": "Eu certamente posso usar meu charme se for necessário para fazer as"
+    },
+    {
+      "id": 181,
+      "text": "Minhas emoções são imprevisíveis."
+    },
+    {
+      "id": 182,
+      "text": "Eu não lido com as pessoas, a não ser que eu precise."
+    },
+    {
+      "id": 183,
+      "text": "Eu não me importo com os problemas das outras pessoas."
+    },
+    {
+      "id": 184,
+      "text": "Eu não reajo muito a coisas que parecem deixar os outros emocionados."
+    },
+    {
+      "id": 185,
+      "text": "Eu tenho vários hábitos que as outras pessoas acham excêntricos ou"
+    },
+    {
+      "id": 186,
+      "text": "Eu evito eventos sociais."
+    },
+    {
+      "id": 187,
+      "text": "Eu mereço tratamento especial."
+    },
+    {
+      "id": 188,
+      "text": "Eu fico com muita raiva quando as pessoas me insultam, mesmo que seja"
+    },
+    {
+      "id": 189,
+      "text": "Eu raramente me entusiasmo com alguma coisa."
+    },
+    {
+      "id": 190,
+      "text": "Eu suspeito que mesmo os que se dizem meus \"amigos\" me traem muito."
+    },
+    {
+      "id": 191,
+      "text": "Eu preciso muito de atenção."
+    },
+    {
+      "id": 192,
+      "text": "Às vezes eu acho que alguém está retirando pensamentos da minha"
+    },
+    {
+      "id": 193,
+      "text": "Eu tenho períodos em que me sinto desconectado do mundo e de mim"
+    },
+    {
+      "id": 194,
+      "text": "Eu frequentemente vejo conexões incomuns entre coisas que a maioria das"
+    },
+    {
+      "id": 195,
+      "text": "Eu não penso que posso me machucar quando estou fazendo coisas que"
+    },
+    {
+      "id": 196,
+      "text": "Eu simplesmente não tolero que as coisas estejam fora de seus devidos"
+    },
+    {
+      "id": 197,
+      "text": "Eu frequentemente tenho que lidar com pessoas que são menos"
+    },
+    {
+      "id": 198,
+      "text": "Eu às vezes bato nas pessoas para lembrá-las de quem está no comando."
+    },
+    {
+      "id": 199,
+      "text": "Eu me desvio em uma tarefa, mesmo com pequenas distrações."
+    },
+    {
+      "id": 200,
+      "text": "Eu gosto de fazer as pessoas no comando parecerem estúpidas."
+    },
+    {
+      "id": 201,
+      "text": "Eu simplesmente falto a compromissos ou reuniões se eu não estou a fim"
+    },
+    {
+      "id": 202,
+      "text": "Eu tento fazer o que os outros querem que eu faça."
+    },
+    {
+      "id": 203,
+      "text": "Eu prefiro ficar sozinho (a) do que ter um (a) parceiro (a) romântico (a)."
+    },
+    {
+      "id": 204,
+      "text": "Eu sou muito impulsivo (a)."
+    },
+    {
+      "id": 205,
+      "text": "Eu frequentemente tenho pensamentos que fazem sentido para mim, mas"
+    },
+    {
+      "id": 206,
+      "text": "Eu uso as pessoas para conseguir o que eu quero."
+    },
+    {
+      "id": 207,
+      "text": "Eu não vejo sentido em me sentir culpado (a) por coisas que eu fiz e"
+    },
+    {
+      "id": 208,
+      "text": "Na maior parte do tempo eu não vejo sentido em ser amigável."
+    },
+    {
+      "id": 209,
+      "text": "Eu já tive algumas experiências realmente estranhas que são muito difíceis"
+    },
+    {
+      "id": 210,
+      "text": "Eu cumpro meus compromissos."
+    },
+    {
+      "id": 211,
+      "text": "Eu gosto de chamar atenção para mim."
+    },
+    {
+      "id": 212,
+      "text": "Eu me sinto culpado (a) na maior parte do tempo."
+    },
+    {
+      "id": 213,
+      "text": "Eu frequentemente \"fico desligado (a) \" e de repente volto a mim e"
+    },
+    {
+      "id": 214,
+      "text": "Mentir é fácil para mim."
+    },
+    {
+      "id": 215,
+      "text": "Eu odeio correr riscos."
+    },
+    {
+      "id": 216,
+      "text": "Eu sou desagradável e grosso (a) com qualquer um que mereça."
+    },
+    {
+      "id": 217,
+      "text": "As coisas ao meu redor frequentemente parecem irreais ou mais reais do"
+    },
+    {
+      "id": 218,
+      "text": "Eu faltarei com a verdade se isso for vantajoso para mim."
+    },
+    {
+      "id": 219,
+      "text": "É fácil para mim tirar proveito dos outros."
+    },
+    {
+      "id": 220,
+      "text": "Eu tenho uma maneira muito rigorosa de fazer as coisas."
+    }
+  ]
+}

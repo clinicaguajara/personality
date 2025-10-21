@@ -1,0 +1,902 @@
+{
+  "name": "PID-5 | Versão do Informante Completa",
+  "instructions": "Essa é uma lista de várias coisas que as pessoas podem dizer sobre os outros . Nós estamos int eressados em saber como você descreveria a pessoa que você está avaliando . Não existem respostas \"certas\" ou \"erradas\". Você pode descrevê -la da maneira mais honesta possível, pois suas respostas serão mantidas em sigilo. Você pode l evar o tempo que quiser; leia cada uma das afirmativas com cuidado, escolhendo a resposta que melhor descreve ele (a) .",
+  "respostas": [
+    "Muito falso ou frequentemente falso",
+    "Algumas vezes ou um pouco falso",
+    "Algumas vezes ou pouco verdadeiro",
+    "Muito verdadeiro ou frequentemente verdadeiro"
+  ],
+  "itens_reversos": [
+    7,
+    30,
+    35,
+    58,
+    87,
+    90,
+    96,
+    97,
+    98,
+    130,
+    141,
+    154,
+    163,
+    176,
+    208,
+    213
+  ],
+  "items": [
+    {
+      "id": 1,
+      "text": "não tem tanto prazer nas coisas como os outros parecem ter ."
+    },
+    {
+      "id": 2,
+      "text": "acredita que muitas pessoas por aí querem pegá -lo (a)."
+    },
+    {
+      "id": 3,
+      "text": "é imprudente ."
+    },
+    {
+      "id": 4,
+      "text": "age totalmente por impulso ."
+    },
+    {
+      "id": 5,
+      "text": "frequentemente tem ideias que são muito estranhas."
+    },
+    {
+      "id": 6,
+      "text": "perde o foco das conversas porque outras coisas chamam a atenção dele (a)."
+    },
+    {
+      "id": 7,
+      "text": "evita situações de risco"
+    },
+    {
+      "id": 8,
+      "text": "quando se trata de suas emoções, pode ser muito \"frio (a) \" ."
+    },
+    {
+      "id": 9,
+      "text": "muda o que faz dependendo do que os outros querem ."
+    },
+    {
+      "id": 10,
+      "text": "prefere não ficar muito perto das pessoas ."
+    },
+    {
+      "id": 11,
+      "text": "frequentemente se envolve em brigas físicas ."
+    },
+    {
+      "id": 12,
+      "text": "tem pavor de ficar sem alguém para lh e amar ."
+    },
+    {
+      "id": 13,
+      "text": "é grosseiro e hostil."
+    },
+    {
+      "id": 14,
+      "text": "faz coisas para ter certeza que as pessoas o (a) note m."
+    },
+    {
+      "id": 15,
+      "text": "geralmente faz o que os outros ach am que ele ( a) deveria fazer."
+    },
+    {
+      "id": 16,
+      "text": "geralmente faz coisas por impulso sem pensar no que poderia acontecer como resultado ."
+    },
+    {
+      "id": 17,
+      "text": "mesmo sabendo que não é o melhor, ele ( a) não consegue para r de tomar decisões precipitadas ."
+    },
+    {
+      "id": 18,
+      "text": "suas emoções à s vezes mudam sem nenhum bom motivo ."
+    },
+    {
+      "id": 19,
+      "text": "realmente não se importa se faz outras pessoas sofrerem ."
+    },
+    {
+      "id": 20,
+      "text": "fecha -se em si mesmo (a)."
+    },
+    {
+      "id": 21,
+      "text": "frequentemente fala coisas que os outros acham esquisitas ou estranhas ."
+    },
+    {
+      "id": 22,
+      "text": "sempre faz as coisas no calor do momento ."
+    },
+    {
+      "id": 23,
+      "text": "não está muito interessado ( a) em nada."
+    },
+    {
+      "id": 24,
+      "text": "seu comportamento de alguma maneira é estranho."
+    },
+    {
+      "id": 25,
+      "text": "pensa sobre as coisas de um jeito muito estranho ."
+    },
+    {
+      "id": 26,
+      "text": "quase nunca aproveita a vida ."
+    },
+    {
+      "id": 27,
+      "text": "frequentemente sente que nada que ele ( a) faz realmente importa ."
+    },
+    {
+      "id": 28,
+      "text": "explode com as pessoas quando el as fazem pequenas coisas que o (a) irritam ."
+    },
+    {
+      "id": 29,
+      "text": "não consegue concentrar -se em nada ."
+    },
+    {
+      "id": 30,
+      "text": "é uma pessoa com muita energia ."
+    },
+    {
+      "id": 31,
+      "text": "é irresponsável ."
+    },
+    {
+      "id": 32,
+      "text": "pode ser malvado ( a)."
+    },
+    {
+      "id": 33,
+      "text": "tem pensamentos que frequentemente vão em direções estranhas ou incomuns."
+    },
+    {
+      "id": 34,
+      "text": "gasta muito tempo para garantir que as coisa s estão exatamente em seu lugar."
+    },
+    {
+      "id": 35,
+      "text": "evita esportes e atividades arriscada s."
+    },
+    {
+      "id": 36,
+      "text": "parece ter dificuldades em distinguir sonhos de realidade ."
+    },
+    {
+      "id": 37,
+      "text": "fala sobre sensações estranha s como sentir que partes do s eu corpo parecem mortas ou não são parte dele ( a)."
+    },
+    {
+      "id": 38,
+      "text": "fica irritado (a) facilmente ."
+    },
+    {
+      "id": 39,
+      "text": "não tem limites quando se trata de fazer coisas perigosas"
+    },
+    {
+      "id": 40,
+      "text": "acha-se mais importante do que as outras pessoas ."
+    },
+    {
+      "id": 41,
+      "text": "inventa histórias sobre coisas que aconteceram que são totalmente falsas ."
+    },
+    {
+      "id": 42,
+      "text": "alega problemas estranhos com a memória que são difíceis de explicar."
+    },
+    {
+      "id": 43,
+      "text": "faz coisas sim plesmente para que as pessoas o (a) admirem ."
+    },
+    {
+      "id": 44,
+      "text": "relata ver coisas estranhas como objetos com uma forma diferente do habitual ."
+    },
+    {
+      "id": 45,
+      "text": "não tem reações emocionais muito duradouras às coisas ."
+    },
+    {
+      "id": 46,
+      "text": "tem dificuldade de parar uma atividade, mesmo quando já é a hora de parar ."
+    },
+    {
+      "id": 47,
+      "text": "não é bom (boa) em planejar as coisas com antecedência ."
+    },
+    {
+      "id": 48,
+      "text": "faz muitas coisas que os outros consideram arriscadas ."
+    },
+    {
+      "id": 49,
+      "text": "concentra -se demais nos mínimos detalhes ."
+    },
+    {
+      "id": 50,
+      "text": "preocupa -se muito em ficar sozinho (a) ."
+    },
+    {
+      "id": 51,
+      "text": "já perdeu coisas por estar ocupado (a) tentando fazer algo de maneira extremamente correta ."
+    },
+    {
+      "id": 52,
+      "text": "frequentemente tem pensamentos que não fazem sentido para os outros ."
+    },
+    {
+      "id": 53,
+      "text": "frequentemente inventa coisas sobre si mesmo (a) para tentar conseguir o que quer."
+    },
+    {
+      "id": 54,
+      "text": "realmente não s e incomoda em ver outras pessoas sofrendo ."
+    },
+    {
+      "id": 55,
+      "text": "frequentemente diz coisas realmente estranhas."
+    },
+    {
+      "id": 56,
+      "text": "frequentemente elogia as pessoas para conseguir algo."
+    },
+    {
+      "id": 57,
+      "text": "prefere estar em um relacionamento ruim do que estar sozinho (a) ."
+    },
+    {
+      "id": 58,
+      "text": "geralmente pensa antes de agir ."
+    },
+    {
+      "id": 59,
+      "text": "fala com frequência sobre imagens vívidas (como se os son hos se misturassem à vida real)."
+    },
+    {
+      "id": 60,
+      "text": "continua fazendo as coisas do mesmo jeito, mesmo quando não está dando certo ."
+    },
+    {
+      "id": 61,
+      "text": "é muito insatisfeito (a) cons igo mesmo (a)."
+    },
+    {
+      "id": 62,
+      "text": "tem reações emocionais muito mais fortes do que a maioria das pessoas ."
+    },
+    {
+      "id": 63,
+      "text": "faz o que as outras pessoas lh e dizem para fazer ."
+    },
+    {
+      "id": 64,
+      "text": "não suporto ser deixado sozinho (a), mesmo por algumas horas ."
+    },
+    {
+      "id": 65,
+      "text": "tem uma visão exagerada das próprias qualidades ."
+    },
+    {
+      "id": 66,
+      "text": "vê o futuro como realmente sem esperanças."
+    },
+    {
+      "id": 67,
+      "text": "Gosta de correr riscos ."
+    },
+    {
+      "id": 68,
+      "text": "não consegue alcançar objetivos porque outras coisas roubam -lhe a atenção ."
+    },
+    {
+      "id": 69,
+      "text": "não deixa que o risco o (a) impeça de fazer algo."
+    },
+    {
+      "id": 70,
+      "text": "é bastante estranho (a) ou incomum ."
+    },
+    {
+      "id": 71,
+      "text": "tem pensamentos estranhos ou imprevisíveis."
+    },
+    {
+      "id": 72,
+      "text": "não se importa com os sentimentos das outras pessoas."
+    },
+    {
+      "id": 73,
+      "text": "passa por cima de algumas pessoas para conseguir o que quer na vida ."
+    },
+    {
+      "id": 74,
+      "text": "adora chamar a atenção de outras pessoas ."
+    },
+    {
+      "id": 75,
+      "text": "faz de tudo para evitar qualquer tipo de atividade em grupo ."
+    },
+    {
+      "id": 76,
+      "text": "pode ser malandro ( a) para conseguir o que quer."
+    },
+    {
+      "id": 77,
+      "text": "às vezes parece ver as coisas como desconhecidas ou estranhas."
+    },
+    {
+      "id": 78,
+      "text": "tem dificuldades em mudar de uma atividade para outra ."
+    },
+    {
+      "id": 79,
+      "text": "preocupa -se muito com coisa s terríveis que podem acontecer."
+    },
+    {
+      "id": 80,
+      "text": "tem dificuldades em mudar o jeito de fazer alguma coisa mesmo quando não está dando certo ."
+    },
+    {
+      "id": 81,
+      "text": "pensa que o mundo seria melhor se ele ( a) estivesse morto (a)."
+    },
+    {
+      "id": 82,
+      "text": "mantém distância das pessoas ."
+    },
+    {
+      "id": 83,
+      "text": "frequentemente não consegue controlar o que pensa."
+    },
+    {
+      "id": 84,
+      "text": "não fica emocionado (a) ."
+    },
+    {
+      "id": 85,
+      "text": "ofende -se quando lhe dizem o que fazer, mesmo quando é um superior/chefe ."
+    },
+    {
+      "id": 86,
+      "text": "ás vezes parece envergonhado (a) por pequenas coisas."
+    },
+    {
+      "id": 87,
+      "text": "Evita qualquer coisa que pode ser minimamente perigosa ."
+    },
+    {
+      "id": 88,
+      "text": "tem dificuldade s em ir atrás de objetivos específicos mesmo que por curto s períodos de tempo ."
+    },
+    {
+      "id": 89,
+      "text": "prefere manter romances fora de sua vida ."
+    },
+    {
+      "id": 90,
+      "text": "nunca prejudicaria outra pessoa ."
+    },
+    {
+      "id": 91,
+      "text": "não demonstra fortes emoções ."
+    },
+    {
+      "id": 92,
+      "text": "tem um pavio muito curto ."
+    },
+    {
+      "id": 93,
+      "text": "frequentemente se preocupa que algo ruim vai aco ntecer devido a erros que cometeu no passado"
+    },
+    {
+      "id": 94,
+      "text": "acha que tem habilidades incomuns, como saber o que os outros estão pensando."
+    },
+    {
+      "id": 95,
+      "text": "fica muito nervoso (a) quanto ao futuro."
+    },
+    {
+      "id": 96,
+      "text": "gosta de estar apaixonado (a) ."
+    },
+    {
+      "id": 97,
+      "text": "prefere agir com cuidado em vez de correr riscos desnecessários ."
+    },
+    {
+      "id": 98,
+      "text": "às vezes, ouve coisas que os outros não conseguiam ouvir ."
+    },
+    {
+      "id": 99,
+      "text": "fica fixado (a) em certas coisas e não pode parar ."
+    },
+    {
+      "id": 100,
+      "text": "é difíci l saber o que ele (a) está sentindo."
+    },
+    {
+      "id": 101,
+      "text": "é uma pessoa muito emotiva ."
+    },
+    {
+      "id": 102,
+      "text": "preocupa -se que os outros se aproveitem dele."
+    },
+    {
+      "id": 103,
+      "text": "frequentemente se sente como um (a) fracassado (a) ."
+    },
+    {
+      "id": 104,
+      "text": "acha inaceitável não fazer algo absolutamente perfeito."
+    },
+    {
+      "id": 105,
+      "text": "frequentemente tem experiências incomuns, como sentir a presença de alguém que de fato não está presente ."
+    },
+    {
+      "id": 106,
+      "text": "é bom ( boa) em lev ar as pessoas a fazerem o que ele quer que elas façam ."
+    },
+    {
+      "id": 107,
+      "text": "termina relacionamentos se eles começam a ficar muito íntimos."
+    },
+    {
+      "id": 108,
+      "text": "está sempre preocupado (a) com alguma coisa."
+    },
+    {
+      "id": 109,
+      "text": "preocupa -se com quase tudo."
+    },
+    {
+      "id": 110,
+      "text": "gosta de destacar -se em uma multidão."
+    },
+    {
+      "id": 111,
+      "text": "não se importa de arriscar -se de vez em quando."
+    },
+    {
+      "id": 112,
+      "text": "frequentemente apresenta um comportamento que chama atenção das pessoas."
+    },
+    {
+      "id": 113,
+      "text": "pensa que é melhor do que a maioria das pessoas."
+    },
+    {
+      "id": 114,
+      "text": "tem necessidade de ter tudo organizado."
+    },
+    {
+      "id": 115,
+      "text": "sempre se certifica de dar o troco nas pessoas que erraram com ele (a)."
+    },
+    {
+      "id": 116,
+      "text": "sempre está atento em relação às pessoas que tentam enganá -lo ou prejudicá -lo."
+    },
+    {
+      "id": 117,
+      "text": "tem dificuldade em manter sua mente focada no que precisa ser feito."
+    },
+    {
+      "id": 118,
+      "text": "fala muito sobre suicídio."
+    },
+    {
+      "id": 119,
+      "text": "simplesmente não se interessa muito em ter relações sexuais."
+    },
+    {
+      "id": 120,
+      "text": "fica muito preso (a) às coisas."
+    },
+    {
+      "id": 121,
+      "text": "emociona -se facilmente, muitas vezes por pequenas razões."
+    },
+    {
+      "id": 122,
+      "text": "insiste na perfeição absoluta em tudo o que faz, embora isso incomode as outras pessoas."
+    },
+    {
+      "id": 123,
+      "text": "quase nunca se sente feliz com as suas atividades do dia a dia."
+    },
+    {
+      "id": 124,
+      "text": "acredita que bajular os outros o ( a) ajuda a conseguir o que quer ."
+    },
+    {
+      "id": 125,
+      "text": "às vezes exagera ou mente muito sobre si mesmo para seguir adiante."
+    },
+    {
+      "id": 126,
+      "text": "tem medo de ficar sozinho (a) na vida mais do que qualquer outra coisa."
+    },
+    {
+      "id": 127,
+      "text": "fica preso (a) a um jeito de fazer as coisas, mesmo quando está claro que não vai dar certo."
+    },
+    {
+      "id": 128,
+      "text": "frequentemente é muito descuidado (a) com as suas coisas e com as coisas dos outros."
+    },
+    {
+      "id": 129,
+      "text": "é uma pessoa muito ansiosa."
+    },
+    {
+      "id": 130,
+      "text": "pensa que as pessoas são geralmente confiáveis."
+    },
+    {
+      "id": 131,
+      "text": "distrai -se facilmente."
+    },
+    {
+      "id": 132,
+      "text": "frequentemente acha que os outros estão o (a) tratando mal."
+    },
+    {
+      "id": 133,
+      "text": "não hesita em trapacear se isso me levá -lo adiante."
+    },
+    {
+      "id": 134,
+      "text": "checa as coisas várias vezes para ter certeza de que estão perfeitas."
+    },
+    {
+      "id": 135,
+      "text": "não gosta de gastar o tempo com os outros."
+    },
+    {
+      "id": 136,
+      "text": "sente -se forçado (a) a continuar com as coisas mesmo quando isso faz pouco sentido."
+    },
+    {
+      "id": 137,
+      "text": "tem emoções que podem mudar de um momento para o outro."
+    },
+    {
+      "id": 138,
+      "text": "tem visto coisas que na realidade não estavam lá."
+    },
+    {
+      "id": 139,
+      "text": "acredita que é muito importante que as coisas sejam feitas de uma maneira específica."
+    },
+    {
+      "id": 140,
+      "text": "sempre espera que aconteça o pior."
+    },
+    {
+      "id": 141,
+      "text": "tenta dizer a verdade mesmo quando é difícil."
+    },
+    {
+      "id": 142,
+      "text": "acredita que algumas pessoas podem mover coisas com suas mentes"
+    },
+    {
+      "id": 143,
+      "text": "não consegue focar nas coisas por muito tempo."
+    },
+    {
+      "id": 144,
+      "text": "evita relacionamentos amorosos."
+    },
+    {
+      "id": 145,
+      "text": "não tem interesse em fazer amigos."
+    },
+    {
+      "id": 146,
+      "text": "fala o mínimo possível ao lidar com os outros."
+    },
+    {
+      "id": 147,
+      "text": "pensa que é uma pessoa inútil."
+    },
+    {
+      "id": 148,
+      "text": "fará qualquer coisa para impedir que alguém o abandone."
+    },
+    {
+      "id": 149,
+      "text": "pensa que pode influenciar outr as pessoas apenas transmitindo s eus pensamentos para elas ."
+    },
+    {
+      "id": 150,
+      "text": "pensa que a vida parece muito sombria."
+    },
+    {
+      "id": 151,
+      "text": "pensa sobre as coisas de uma maneira estranha, que não faz sentido para a maioria das pessoas."
+    },
+    {
+      "id": 152,
+      "text": "não se importa se as sua s ações fazem os outros sofrerem ."
+    },
+    {
+      "id": 153,
+      "text": "às vezes sente que seus pensamentos estão sendo controlados por outra pessoa."
+    },
+    {
+      "id": 154,
+      "text": "realmente vive a vida plenamente ."
+    },
+    {
+      "id": 155,
+      "text": "parece fazer promessas que não pretende manter."
+    },
+    {
+      "id": 156,
+      "text": "parece não se sentir bem com nada."
+    },
+    {
+      "id": 157,
+      "text": "fica irritado (a) facilmente por qualquer tipo de coisa ."
+    },
+    {
+      "id": 158,
+      "text": "faz o que quer independente do quão perigoso possa ser ."
+    },
+    {
+      "id": 159,
+      "text": "frequentemente esquece de pagar as suas contas."
+    },
+    {
+      "id": 160,
+      "text": "não gosta de ficar muito perto das pessoas ."
+    },
+    {
+      "id": 161,
+      "text": "é bom (boa) em enganar as pessoas ."
+    },
+    {
+      "id": 162,
+      "text": "acha tudo sem sentido."
+    },
+    {
+      "id": 163,
+      "text": "nunca se arrisca."
+    },
+    {
+      "id": 164,
+      "text": "emociona -se com qualquer coisa pequena."
+    },
+    {
+      "id": 165,
+      "text": "acredita não ser grande coisa se ele (a) ferir os sentimentos das outras pessoas ."
+    },
+    {
+      "id": 166,
+      "text": "nunca demonstra suas emoções para os outros."
+    },
+    {
+      "id": 167,
+      "text": "frequentemente se sente simplesmente péssimo."
+    },
+    {
+      "id": 168,
+      "text": "sente que não tem nenhum valor como pessoa."
+    },
+    {
+      "id": 169,
+      "text": "geralmente é bem hostil ."
+    },
+    {
+      "id": 170,
+      "text": "já fugiu para evitar responsabilidades ."
+    },
+    {
+      "id": 171,
+      "text": "tem vários comportamentos ou hábitos estranhos ."
+    },
+    {
+      "id": 172,
+      "text": "gosta de ser uma pessoa que chama atenção ."
+    },
+    {
+      "id": 173,
+      "text": "está sempre com medo ou preocupado (a) com coisas ruins que podem acontecer ."
+    },
+    {
+      "id": 174,
+      "text": "nunca quer ficar sozinho (a) ."
+    },
+    {
+      "id": 175,
+      "text": "continua tentando fazer as coisas de f orma perfeita mesmo quando já fe z o melhor possível ."
+    },
+    {
+      "id": 176,
+      "text": "menciona que vai cometer suicídio mais cedo ou mais tarde ."
+    },
+    {
+      "id": 177,
+      "text": "exagera suas próprias conquistas."
+    },
+    {
+      "id": 178,
+      "text": "certamente pode usar o s eu charme se for nece ssário para fazer as coisas do seu jeito ."
+    },
+    {
+      "id": 179,
+      "text": "tem emoções imprevisíveis."
+    },
+    {
+      "id": 180,
+      "text": "não lida com as pessoas, a não ser que precise ."
+    },
+    {
+      "id": 181,
+      "text": "não se importa com os problemas das outras pessoas ."
+    },
+    {
+      "id": 182,
+      "text": "não reage muito as coisas que parecem deixar os outros emocionados."
+    },
+    {
+      "id": 183,
+      "text": "tem vários hábitos excêntricos ou estranhos."
+    },
+    {
+      "id": 184,
+      "text": "evita eventos sociais."
+    },
+    {
+      "id": 185,
+      "text": "acha que merece tratamento especial ."
+    },
+    {
+      "id": 186,
+      "text": "fica com muita raiva quando as pessoas o (a) insultam, mesmo que seja algo pequeno ."
+    },
+    {
+      "id": 187,
+      "text": "raramente fica entusiasmado (a) com alguma coisa ."
+    },
+    {
+      "id": 188,
+      "text": "suspeita que mesmo seus amigos o (a) traem muito."
+    },
+    {
+      "id": 189,
+      "text": "precisa muito de atenção."
+    },
+    {
+      "id": 190,
+      "text": "às vezes acha que alguém está retirando pensamentos da sua cabeça."
+    },
+    {
+      "id": 191,
+      "text": "há períodos em que se sente desconectado (a) do mundo e de si mesmo (a)."
+    },
+    {
+      "id": 192,
+      "text": "frequentemente faz conexões incomuns entre coisas."
+    },
+    {
+      "id": 193,
+      "text": "não pensa que pode s e machucar quando estou fazendo coisas que podem ser perigosas ."
+    },
+    {
+      "id": 194,
+      "text": "simplesmente não tolera que as coisas estejam fora de seus devidos lugares ."
+    },
+    {
+      "id": 195,
+      "text": "frequentemente desvaloriza as pessoas."
+    },
+    {
+      "id": 196,
+      "text": "às vezes bate nas pessoas."
+    },
+    {
+      "id": 197,
+      "text": "desvia -se de uma tarefa, mesmo com pequenas distrações ."
+    },
+    {
+      "id": 198,
+      "text": "Gosta de fazer as pessoas no comando parecerem estúpidas"
+    },
+    {
+      "id": 199,
+      "text": "simplesmente falta de compromissos ou reuniões se não está a fim."
+    },
+    {
+      "id": 200,
+      "text": "tenta fazer o que os outros querem que ele (a) faça."
+    },
+    {
+      "id": 201,
+      "text": "prefere ficar sozinho (a) do que ter um (a) parceiro (a) romântico (a) ."
+    },
+    {
+      "id": 202,
+      "text": "é muito impulsivo (a) ."
+    },
+    {
+      "id": 203,
+      "text": "frequentemente tem pensam entos que fazem sentido para ele (a) , mas que outras pessoas dizem que são estranhos."
+    },
+    {
+      "id": 204,
+      "text": "usa as pessoas para conseguir o que quer."
+    },
+    {
+      "id": 205,
+      "text": "não se sente culpado (a) por coisas que ele (a) fe z e que magoaram outras pessoas ."
+    },
+    {
+      "id": 206,
+      "text": "não é amigável na maioria das vezes."
+    },
+    {
+      "id": 207,
+      "text": "fala sobre algumas experiências realmente estranhas que são muito difíceis de explicar."
+    },
+    {
+      "id": 208,
+      "text": "cumpre seus compromissos."
+    },
+    {
+      "id": 209,
+      "text": "gosta de chamar atenção para si."
+    },
+    {
+      "id": 210,
+      "text": "sente -se culpado na maior parte do tempo."
+    },
+    {
+      "id": 211,
+      "text": "frequentemente \"fica desligado ( a) \" por períodos de tempo."
+    },
+    {
+      "id": 212,
+      "text": "mente facilmente."
+    },
+    {
+      "id": 213,
+      "text": "odeia correr riscos."
+    },
+    {
+      "id": 214,
+      "text": "pode ser desagradável e grosso (a) com os outros."
+    },
+    {
+      "id": 215,
+      "text": "fala sobre sentir que as coisas são irreais ou mais reais que o habitual."
+    },
+    {
+      "id": 216,
+      "text": "faltará com a verdade se isso for vantajoso para ele (a)."
+    },
+    {
+      "id": 217,
+      "text": "acha fácil tirar proveito dos outros."
+    },
+    {
+      "id": 218,
+      "text": "tem uma maneira muito rigorosa de fazer as coisas."
+    }
+  ]
+}
